@@ -14,7 +14,7 @@ Catalogue
 2. Clone the repo
 
 ```
- git clone  
+ git clone  git@github.com:xxjiafu/Yashandb_flowable.git
 ```
 
 
