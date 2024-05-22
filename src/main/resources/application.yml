@@ -1,0 +1,23 @@
+spring:
+  datasource:
+#    url: jdbc:yasdb://192.168.33.103:6688/yasdb
+    url: jdbc:yasdb://192.168.33.103:3688/yasdb
+    username: flowable
+    password: flowable
+    driver-class-name: com.yashandb.jdbc.Driver
+    type: com.alibaba.druid.pool.DruidDataSource
+#  liquibase:
+#
+#    enabled: true
+#    drop-first: true
+flowable:
+  #关闭定时任务JOB
+  async-executor-activate: true
+  database-schema-update: true
+#  database-schema: flowable
+
+
+
+server:
+  port: 8081
+
