@@ -10,8 +10,7 @@ Catalogue
 
 **Installation steps**
 
-1. Get a free API Key at [https://example.com](https://example.com/)
-2. Clone the repo
+ 
 
 ```
  git clone  git@github.com:xxjiafu/Yashandb_flowable.git
@@ -23,7 +22,7 @@ Catalogue
 ** **
 
 
-**Project tree**
+**项目结构**
 
 ```
 D:\PROJECT\FLOWABLE6.8_YAS
@@ -179,12 +178,12 @@ D:\PROJECT\FLOWABLE6.8_YAS
 ```
 
 
-### Aarchitecture
-Monomer architecture
+### 框架
+单一架构
 
 
 
-### Technology
+### 技术
 
 - springboot2.7.3
 
