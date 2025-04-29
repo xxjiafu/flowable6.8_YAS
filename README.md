@@ -178,12 +178,11 @@ D:\PROJECT\FLOWABLE6.8_YAS
 ```
 
 
-### 框架
-单一架构
 
 
 
-### 技术
+
+### Dependence 
 
 - springboot2.7.3
 
